@@ -10,8 +10,10 @@ namespace WindowsFormsApp2.Datos
     {
         public int dato1 { get; set; }
         public int dato2 { get; set; }
-        public void mtdComrpobarDatos()
+        public int mtdComrpobarDatos()
         {
+            int dato = dato1 * dato2;
+            return dato;
 
         }
     }
