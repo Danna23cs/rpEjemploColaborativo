@@ -8,7 +8,9 @@ namespace WindowsFormsApp2.Datos
 {
     class clConxion
     {
-        public void mtdDesconectado()
+        public int dato1 { get; set; }
+        public int dato2 { get; set; }
+        public void mtdComrpobarDatos()
         {
 
         }
