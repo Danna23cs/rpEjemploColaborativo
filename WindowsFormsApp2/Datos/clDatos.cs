@@ -8,5 +8,13 @@ namespace WindowsFormsApp2.Datos
 {
     class clDatos
     {
+        public int datos { get; set; }
+        public string nombre { get; set; }
+
+
+
+
+
+
     }
 }
