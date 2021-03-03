@@ -14,7 +14,6 @@ namespace WindowsFormsApp2.Datos
         {
             int dato = dato1 * dato2;
             return dato;
-
         }
     }
 }
