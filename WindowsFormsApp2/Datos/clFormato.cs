@@ -8,5 +8,6 @@ namespace WindowsFormsApp2.Datos
 {
     class clFormato
     {
+        public string nombre  { get; set; }
     }
 }
