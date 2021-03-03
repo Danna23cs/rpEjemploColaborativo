@@ -48,6 +48,12 @@
   <ItemGroup>
     <Compile Include="Datos\clConxion.cs" />
     <Compile Include="Datos\clDatos.cs" />
+    <Compile Include="Datos\frmLocas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datos\frmLocas.Designer.cs">
+      <DependentUpon>frmLocas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
